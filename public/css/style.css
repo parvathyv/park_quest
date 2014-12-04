@@ -1,0 +1,25 @@
+body{
+	background-color:white; 
+}
+#map-canvas {
+	    border: 1px 1px 1px 1px;
+	    border-color:#3079ed; 
+        height: 80%;
+        margin: 0px;
+        padding: 0px
+            }
+
+
+#location {
+	position:absolute;
+	padding:2%;
+	
+
+} 
+
+
+.message {
+	position:absolute;
+	padding-right:10%;
+	height:50px;
+}

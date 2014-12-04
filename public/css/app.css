@@ -1,0 +1,55 @@
+body {
+    /* */
+    background-color: black;
+    color: #FFFFFF;
+
+    font-family: monospace;
+    font-size: 1em;
+    list-style-type: none
+
+}
+
+h1 {
+
+ font-family: 'Oswald', sans-serif;
+  font-size: 2.5em;
+  margin-top: 10%;
+  text-align : center;
+  color: gray;
+
+}
+
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 0px;
+}
+
+.submitbutton #submit_button{
+
+  font-family: 'Oswald', sans-serif;
+  text-align:center;
+  font-size:1.5em;
+  color:blue;
+  background-color:white;
+  border:hidden;
+
+}
+
+.submitbutton #submit_button:hover {
+color:#ADD8E6;
+}
+
+li {
+    background-color: black;
+    color: #FFFFFF;
+    /* Add a bit more spacing between list items. */
+    padding: 5px;
+    list-style-type: none
+}
+
